@@ -1,7 +1,7 @@
 # Algorithm Visualizer 
 
 A beautiful, interactive, and educational web app for visualizing sorting and searching algorithms. See how algorithms work step-by-step, with animated bars, color-coded states, analytics, pseudocode, and more!
-
+Just an FYI instead of commit each and every algorithm as an individual commit that would have been over 18 commits I just did it as one single commit with all the algorithms, I hope that's ok.
 ---
 
 ## 🚀 Features
